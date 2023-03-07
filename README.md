@@ -8,11 +8,11 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **Sérgio** {
+ val name = "Sérgio_Macellani"
+ val acknowledgements = "Game_Dev"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
+ val primarySkillset = "Unity"
  val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
 }
 ```
