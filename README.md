@@ -1,6 +1,6 @@
 ### Oie devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar jogos e softwares e ajudar outras pessoas a fazer o mesmo.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
@@ -13,7 +13,7 @@ object **Sérgio** {
  val acknowledgements = "Game_Dev"
  
  val primarySkillset = "Unity"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("Java", "Python", "C#", "HTML5", "JavaScript") 
 }
 ```
 
