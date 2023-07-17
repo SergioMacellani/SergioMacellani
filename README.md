@@ -1,14 +1,12 @@
-### Oie devs 👋
+<p align="center">
+<h2 align="center">Olá Devs! Me chamo Sérgio!</h2>
 
-Gosto de criar jogos e softwares e ajudar outras pessoas a fazer o mesmo.
-
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
+<p align="center">
+Bem-Vindo ao meu perfil!
+</p>
 
 ```kotlin
-object **Sérgio** {
+object **Sergio** {
  val name = "Sérgio_Macellani"
  val acknowledgements = "Game_Dev"
  
@@ -35,13 +33,19 @@ object **Sérgio** {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/SergioMacellani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMacellani&theme=dracula&hide_langs_below=1" />
-</a>
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api?username=SergioMacellani&theme=material-palenight&show_icons=true&hide_border=true&count_private=true&line_height=28"/></a>
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMacellani&theme=material-palenight&show_icons=true&hide_border=true&count_private=true&layout=donut&hide=ShaderLab,HLSL&line_height=30"/></a>
+</p>
 
-<a href="https://github.com/SergioMacellani">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SergioMacellani&show_icons=true&theme=dracula&line_height=27" alt="SergioMacellani github stats"/>
-</a>
+<br>
+
+<p align = "center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SergioMacellani/SergioMacellani/output/github-snake-dark.svg">
+  <img alt="Commit Snake Game!" src="https://raw.githubusercontent.com/SergioMacellani/SergioMacellani/output/github-snake-light.svg#gh-light-mode-only">
+ </picture>
+</p>
 
 [website]: https://sergiom.dev/
 [twitter]: https://twitter.com/sergiomacellani
